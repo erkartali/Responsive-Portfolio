@@ -27,7 +27,7 @@ hr {
 body {
     color: #777777;
     margin: 0;
-    background-image: url("assets/images/webb.png");
+    background-image: url("/assets/images/webb.png");
 
 }
 
@@ -129,7 +129,7 @@ body {
     #gallery .bkgd-img {
         height: 100%;
         width: 100%;
-        background-image: url("assets/images/deer.jpg");
+        background-image: url("/assets/images/deer.jpg");
         background-size: cover;
         position: relative;
     }
