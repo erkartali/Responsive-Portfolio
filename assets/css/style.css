@@ -27,7 +27,7 @@ hr {
 body {
     color: #777777;
     margin: 0;
-    background-image: url(assets/images/webb.png);
+    background-image: url("assets/images/webb.png");
 
 }
 
