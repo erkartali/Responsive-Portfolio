@@ -129,7 +129,7 @@ body {
     #gallery .bkgd-img {
         height: 100%;
         width: 100%;
-        background-image: url("/assets/images/deer.jpg");
+        background-image: url("../images/deer.jpg");
         background-size: cover;
         position: relative;
     }
