@@ -108,7 +108,8 @@ body {
 #about img {
   display: block;
   margin: 0 auto;
-  width: 425px;
+  /* width: 80%; */
+  height: 250px;
   border-radius: 12px;
 }
 
@@ -171,8 +172,8 @@ body {
 
 .img-wrapper {
   overflow: hidden;
-  width: 425px;
-  height: 310px;
+  width: 80%;
+  height: 250px;
   margin: 25px 0;
   align-self: center;
 }
@@ -227,6 +228,7 @@ form button {
   height: 30px;
   width: 90px;
   margin-bottom: 15px;
+  border-radius: 20px;
 }
 
 /* end contact styles  */
@@ -254,6 +256,21 @@ form button {
     margin: 0 auto;
     background-color: white;
     padding: 0 15px;
+  }
+
+  #about img {
+    display: block;
+    margin: 0 auto;
+    width: 425px;
+    height: 100%;
+    border-radius: 12px;
+  }
+
+  .img-wrapper {
+    overflow: hidden;
+    width: 425px;
+    margin: 25px 0;
+    align-self: center;
   }
 
   #right {
